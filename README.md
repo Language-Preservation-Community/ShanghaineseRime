@@ -3,9 +3,10 @@ An IME for Shanghainese, using Edkins romanisation.
 
 Instructions for Shanghainese Input
 1. Download Rime input from https://rime.im/download/ and install by going into the folder in C:\Program Files (x86)\Rime and clicking on WeaselSetup.exe.
-2. Download Edkins Input https://www.mediafire.com/file/u246komckjjg1vl/edkins-shanghainese-ime-main.zip/file and extract.
-3. Navigate to the Rime inputs folder: C:\Users\[name]\AppData\Roaming\Rime 
-4. Open the extracted Edkins file and drag the files
+2. Download Edkins Input from this repo. (just the .dict file and the .schema file will do)
+3. If you are unsure how to download from github, just click on the button code and you will see a button called download Zip. Press on that and you will be able to download
+4. Navigate to the Rime inputs folder: C:\Users\[name]\AppData\Roaming\Rime 
+5. Open the extracted Edkins file and drag the files
 edkins.dict.yaml
 edkins.schema.yaml
 into the Rime inputs folder and it should look something like this:
